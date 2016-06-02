@@ -1,0 +1,2 @@
+General;%FileName%___%Format% | Size: %FileSize/String% | Duration: %Duration/String% |
+Video; %Width%x%Height%###
